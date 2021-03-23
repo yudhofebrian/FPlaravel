@@ -1,0 +1,1 @@
+web: vedor/bin/heroku-php-aphache2 public/
